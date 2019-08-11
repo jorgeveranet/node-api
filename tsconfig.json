@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "outDir": "./dist",
+    "allowJs": true,
+    "target": "ES2017",
+    "noEmitOnError": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "skipLibCheck": true
+  },
+  "include": ["./src/**/*"],
+  "exclude": ["node_modules", "./test/**/*"]
+}
