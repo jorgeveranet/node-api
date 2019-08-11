@@ -1,4 +1,4 @@
-# REST API Using Node Express and PostgreSQL
+# REST API Using Node.js, Express and PostgreSQL
 
 ## Install and Development
 
